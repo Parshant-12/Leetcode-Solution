@@ -34,6 +34,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0518-coin-change-ii) |
@@ -45,6 +46,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0518-coin-change-ii) |
@@ -77,4 +79,8 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
