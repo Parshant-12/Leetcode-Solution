@@ -51,10 +51,12 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
 ## String
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
@@ -69,4 +71,8 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0494-target-sum) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
