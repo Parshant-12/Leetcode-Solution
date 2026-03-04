@@ -51,6 +51,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0494-target-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Simulation
 |  |
@@ -71,6 +72,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
