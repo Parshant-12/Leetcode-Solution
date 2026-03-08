@@ -50,6 +50,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
@@ -108,4 +109,12 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
