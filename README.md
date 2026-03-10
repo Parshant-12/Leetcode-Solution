@@ -46,6 +46,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -127,4 +128,5 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
