@@ -68,6 +68,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0494-target-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
@@ -118,10 +119,12 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
 |  |
