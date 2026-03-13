@@ -32,6 +32,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -81,6 +82,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1092-shortest-common-supersequence) |
@@ -130,6 +132,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
