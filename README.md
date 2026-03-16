@@ -36,6 +36,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -61,6 +62,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -102,6 +104,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
