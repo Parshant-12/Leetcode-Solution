@@ -83,6 +83,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Simulation
 |  |
@@ -123,6 +124,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +162,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Prefix Sum
 |  |
 | ------- |
