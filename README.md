@@ -63,6 +63,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 ## Sorting
