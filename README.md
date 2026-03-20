@@ -131,6 +131,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
