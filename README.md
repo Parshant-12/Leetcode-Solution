@@ -47,6 +47,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0518-coin-change-ii) |
@@ -76,6 +77,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -102,6 +104,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0044-wildcard-matching) |
+| [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1092-shortest-common-supersequence) |
@@ -181,6 +184,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -233,8 +237,13 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
+| [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
