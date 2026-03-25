@@ -96,6 +96,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [2906-construct-product-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -147,6 +148,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
@@ -206,6 +208,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,4 +263,8 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
