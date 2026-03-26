@@ -111,6 +111,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0087-scramble-string) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
