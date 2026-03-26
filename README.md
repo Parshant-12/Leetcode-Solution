@@ -28,6 +28,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [1622-fancy-sequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1622-fancy-sequence) |
@@ -163,6 +164,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Breadth-First Search
@@ -272,4 +274,8 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
