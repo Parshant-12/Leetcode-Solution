@@ -29,6 +29,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [1622-fancy-sequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1622-fancy-sequence) |
@@ -112,6 +113,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0087-scramble-string) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
@@ -182,6 +184,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
