@@ -137,6 +137,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3110-score-of-a-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
