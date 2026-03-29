@@ -34,6 +34,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [1622-fancy-sequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2591-distribute-money-to-maximum-children) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -156,6 +157,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2591-distribute-money-to-maximum-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
