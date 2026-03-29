@@ -109,6 +109,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
+| [3668-restore-finishing-order](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Simulation
 |  |
@@ -206,6 +207,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3668-restore-finishing-order](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
