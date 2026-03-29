@@ -140,6 +140,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3110-score-of-a-string) |
@@ -209,6 +210,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3668-restore-finishing-order](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
@@ -304,4 +306,8 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+## Counting
+|  |
+| ------- |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
 <!---LeetCode Topics End-->
