@@ -107,6 +107,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1920-build-array-from-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2906-construct-product-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -212,6 +213,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Hash Table
 |  |
 | ------- |
