@@ -125,6 +125,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3582-generate-tag-for-video-caption](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3582-generate-tag-for-video-caption) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
 ## String
 |  |
@@ -153,6 +154,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3110-score-of-a-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3110-score-of-a-string) |
 | [3407-substring-matching-pattern](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3407-substring-matching-pattern) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3582-generate-tag-for-video-caption](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3582-generate-tag-for-video-caption) |
 ## Greedy
 |  |
 | ------- |
