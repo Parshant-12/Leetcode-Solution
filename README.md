@@ -138,6 +138,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0583-delete-operation-for-two-strings) |
+| [0859-buddy-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0859-buddy-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -223,6 +224,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0036-valid-sudoku](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0859-buddy-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
