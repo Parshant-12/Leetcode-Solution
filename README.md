@@ -101,6 +101,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
