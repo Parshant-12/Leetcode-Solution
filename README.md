@@ -146,6 +146,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3110-score-of-a-string) |
 | [3407-substring-matching-pattern](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3407-substring-matching-pattern) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Greedy
 |  |
 | ------- |
@@ -160,6 +161,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2591-distribute-money-to-maximum-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
@@ -317,4 +319,5 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [3407-substring-matching-pattern](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3407-substring-matching-pattern) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
