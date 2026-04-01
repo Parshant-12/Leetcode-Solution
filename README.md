@@ -106,6 +106,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -125,6 +126,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3582-generate-tag-for-video-caption](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3582-generate-tag-for-video-caption) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
