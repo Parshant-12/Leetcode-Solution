@@ -77,6 +77,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0041-first-missing-positive) |
@@ -159,6 +160,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -235,6 +237,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
