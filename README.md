@@ -91,6 +91,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
+| [0485-max-consecutive-ones](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0605-can-place-flowers) |
