@@ -97,6 +97,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1470-shuffle-the-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
