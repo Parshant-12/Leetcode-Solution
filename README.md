@@ -133,6 +133,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3582-generate-tag-for-video-caption](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3582-generate-tag-for-video-caption) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -158,6 +159,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
