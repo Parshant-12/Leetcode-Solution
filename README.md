@@ -71,6 +71,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Memoization
 |  |
 | ------- |
@@ -127,6 +128,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Simulation
 |  |
 | ------- |
@@ -278,6 +280,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Binary Search
 |  |
 | ------- |
