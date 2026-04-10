@@ -131,6 +131,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Simulation
@@ -254,6 +255,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3668-restore-finishing-order](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
