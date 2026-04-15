@@ -119,6 +119,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1929-concatenation-of-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2906-construct-product-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2906-construct-product-matrix) |
@@ -176,6 +177,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3110-score-of-a-string) |
