@@ -127,6 +127,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -260,6 +261,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3488-closest-equal-element-queries](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3668-restore-finishing-order](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -307,6 +309,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0004-median-of-two-sorted-arrays](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Union-Find
