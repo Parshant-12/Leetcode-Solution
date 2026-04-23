@@ -124,6 +124,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [2463-minimum-total-distance-traveled](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2906-construct-product-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -266,6 +267,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2615-sum-of-distances](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3668-restore-finishing-order](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
@@ -298,6 +300,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
