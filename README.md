@@ -186,6 +186,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3110-score-of-a-string) |
 | [3407-substring-matching-pattern](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3407-substring-matching-pattern) |
@@ -388,6 +389,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0347-top-k-frequent-elements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2833-furthest-point-from-origin](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
 | ------- |
