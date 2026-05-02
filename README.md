@@ -33,6 +33,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0788-rotated-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1622-fancy-sequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -67,6 +68,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0518-coin-change-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0788-rotated-digits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0788-rotated-digits) |
 | [1092-shortest-common-supersequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
