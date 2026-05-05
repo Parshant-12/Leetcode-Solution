@@ -299,6 +299,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
@@ -409,6 +410,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
 ## Counting
 |  |
 | ------- |
