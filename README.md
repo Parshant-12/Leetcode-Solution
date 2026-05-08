@@ -44,6 +44,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -150,6 +151,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3546-equal-sum-grid-partition-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -271,6 +273,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -294,6 +297,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [2615-sum-of-distances](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3668-restore-finishing-order](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -432,6 +436,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Quickselect
 |  |
 | ------- |
