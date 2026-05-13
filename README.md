@@ -124,6 +124,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -294,6 +295,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0859-buddy-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2615-sum-of-distances](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2615-sum-of-distances) |
@@ -331,6 +333,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2615-sum-of-distances) |
