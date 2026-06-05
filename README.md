@@ -166,6 +166,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
