@@ -175,6 +175,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1920-build-array-from-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3582-generate-tag-for-video-caption](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3582-generate-tag-for-video-caption) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -426,6 +427,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Counting
 |  |
 | ------- |
