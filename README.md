@@ -427,6 +427,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Counting
 |  |
