@@ -215,6 +215,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3407-substring-matching-pattern](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3407-substring-matching-pattern) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3582-generate-tag-for-video-caption) |
+| [3931-check-adjacent-digit-differences](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
 | ------- |
