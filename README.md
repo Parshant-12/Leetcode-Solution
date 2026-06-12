@@ -47,6 +47,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -362,6 +363,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [3488-closest-equal-element-queries](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Union-Find
 |  |
 | ------- |
