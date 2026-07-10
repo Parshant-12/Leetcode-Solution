@@ -403,6 +403,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -471,12 +472,15 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
