@@ -405,6 +405,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
@@ -438,6 +439,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Counting
@@ -474,6 +476,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -481,6 +484,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0094-binary-tree-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
@@ -488,5 +492,6 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0094-binary-tree-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
