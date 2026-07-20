@@ -283,6 +283,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -409,6 +410,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Topological Sort
@@ -486,6 +488,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -494,4 +497,5 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
