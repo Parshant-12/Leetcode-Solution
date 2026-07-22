@@ -120,6 +120,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0994-rotting-oranges](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1470-shuffle-the-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -242,6 +243,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0036-valid-sudoku) |
+| [0994-rotting-oranges](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -284,6 +286,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
