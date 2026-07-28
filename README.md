@@ -502,6 +502,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -515,10 +516,12 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
