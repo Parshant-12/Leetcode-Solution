@@ -108,6 +108,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
@@ -245,6 +246,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -285,6 +287,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -381,6 +384,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
@@ -416,6 +420,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
