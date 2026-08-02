@@ -291,6 +291,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -385,6 +386,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
@@ -393,6 +395,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
+| [0785-is-graph-bipartite](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -424,6 +427,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Topological Sort
