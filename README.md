@@ -194,6 +194,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0013-roman-to-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0087-scramble-string) |
+| [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
@@ -287,6 +288,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
@@ -311,6 +313,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0041-first-missing-positive](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0859-buddy-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0859-buddy-strings) |
@@ -533,4 +536,8 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
