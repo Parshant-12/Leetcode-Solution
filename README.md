@@ -196,6 +196,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0087-scramble-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0583-delete-operation-for-two-strings) |
@@ -315,6 +316,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0859-buddy-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
