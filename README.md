@@ -341,6 +341,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0031-next-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [1861-rotating-the-box](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
@@ -348,6 +349,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -452,6 +454,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0004-median-of-two-sorted-arrays](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -470,6 +473,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0025-reverse-nodes-in-k-group](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Counting
@@ -546,4 +550,8 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
