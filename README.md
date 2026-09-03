@@ -113,6 +113,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0198-house-robber](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -322,6 +323,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0859-buddy-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
@@ -356,6 +358,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
