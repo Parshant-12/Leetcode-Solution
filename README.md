@@ -110,6 +110,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0198-house-robber) |
@@ -395,6 +396,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
