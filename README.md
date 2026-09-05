@@ -98,6 +98,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
@@ -348,6 +349,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
@@ -359,6 +361,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
