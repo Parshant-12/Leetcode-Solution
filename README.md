@@ -112,6 +112,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
@@ -331,6 +332,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0217-contains-duplicate) |
@@ -418,6 +420,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
