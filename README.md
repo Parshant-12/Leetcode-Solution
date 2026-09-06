@@ -32,6 +32,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0013-roman-to-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0788-rotated-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -394,6 +395,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [1009-complement-of-base-10-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Binary Search
