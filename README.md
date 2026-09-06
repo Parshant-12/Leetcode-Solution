@@ -296,6 +296,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0024-swap-nodes-in-pairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Breadth-First Search
 |  |
@@ -496,6 +497,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Counting
