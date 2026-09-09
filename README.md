@@ -65,6 +65,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0198-house-robber](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0472-concatenated-words) |
@@ -402,6 +403,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [1009-complement-of-base-10-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
