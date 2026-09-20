@@ -30,6 +30,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
@@ -190,6 +191,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
@@ -209,6 +211,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0006-zigzag-conversion](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
@@ -404,6 +407,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0338-counting-bits) |
