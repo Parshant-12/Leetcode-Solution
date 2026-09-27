@@ -39,6 +39,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1622-fancy-sequence](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2591-distribute-money-to-maximum-children) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -81,6 +82,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2463-minimum-total-distance-traveled](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -155,6 +157,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [1920-build-array-from-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2463-minimum-total-distance-traveled) |
@@ -328,6 +331,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Hash Table
 |  |
@@ -369,6 +373,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [1861-rotating-the-box](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1861-rotating-the-box) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
