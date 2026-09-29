@@ -603,4 +603,8 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
