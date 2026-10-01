@@ -33,6 +33,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0067-add-binary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0788-rotated-digits) |
@@ -123,6 +124,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
@@ -508,6 +510,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
@@ -538,6 +541,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Quickselect
@@ -607,4 +611,16 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0182-duplicate-emails) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
