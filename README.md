@@ -218,6 +218,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0044-wildcard-matching](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0087-scramble-string) |
+| [0125-valid-palindrome](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
@@ -372,6 +373,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0031-next-permutation](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [1861-rotating-the-box](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1861-rotating-the-box) |
