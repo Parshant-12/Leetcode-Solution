@@ -144,6 +144,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0994-rotting-oranges](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1470-shuffle-the-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -334,6 +335,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -405,6 +407,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -432,6 +435,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0004-median-of-two-sorted-arrays](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Parshant-12/Leetcode-Solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
