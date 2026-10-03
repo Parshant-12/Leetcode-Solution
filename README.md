@@ -32,6 +32,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0013-roman-to-integer](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
@@ -122,6 +123,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0204-count-primes) |
@@ -375,6 +377,7 @@ This repository serves as a personal archive for my daily problem-solving journe
 | [0088-merge-sorted-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Parshant-12/Leetcode-Solution/tree/master/0202-happy-number) |
 | [1861-rotating-the-box](https://github.com/Parshant-12/Leetcode-Solution/tree/master/1861-rotating-the-box) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Parshant-12/Leetcode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
